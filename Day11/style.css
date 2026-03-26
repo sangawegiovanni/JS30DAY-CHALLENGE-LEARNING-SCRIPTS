@@ -1,0 +1,91 @@
+body {
+    background-color: saddlebrown;
+    padding: 20px;
+    font-family: 'Caveat', cursive;
+}
+
+button{
+    background-color: white;
+    color: saddlebrown;
+    padding: 10px 20px;
+    border: solid;
+    cursor: pointer;
+    border-radius: 8px;
+    
+}
+
+.card{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px burlywood;
+    
+}
+
+.feed{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px burlywood;
+}
+
+.card-title{
+    color: saddlebrown;
+    font-size: 36px;
+    margin-bottom: 8px;
+}
+
+.card-content{
+    color:#555;
+    font-size: 30px;
+    line-height: 1.6;
+    margin-bottom: 12px;
+}
+
+.likeBtn{
+    background-color: white;
+    color: saddlebrown;
+    border: solid;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.infoBtn{
+    background-color: white;
+    color: saddlebrown;
+    border: solid;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.likeBtn:hover {
+    background-color: saddlebrown;
+    color: white;
+}.infoBtn:hover {
+    background-color: saddlebrown;
+    color: white;
+}
+
+.loadFeed {
+    background-color: white;
+    color: saddlebrown;
+    border: solid;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.loadFeed:hover{
+    background-color: saddlebrown;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
