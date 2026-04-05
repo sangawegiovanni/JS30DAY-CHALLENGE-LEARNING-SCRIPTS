@@ -1,0 +1,12 @@
+body{
+  font-family: sans-serif;
+  padding: 20px;
+  background: darkorange;
+}
+
+#results div{
+  background: white;
+  margin-top: 10px;
+  padding:10px;
+  border-radius: 8px;
+}
