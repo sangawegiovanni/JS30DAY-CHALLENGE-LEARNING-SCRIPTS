@@ -1,0 +1,9 @@
+[
+  {
+    "label": "Open in Chrome",
+    "command": "google-chrome",
+    "args": ["$ZED_FILE"],
+    "use_new_terminal": false,
+    "reveal": "never"
+  }
+]

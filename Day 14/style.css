@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    text-align: centre;
+    padding : 20px;
+    background-image: url('Gemini_Generated_Image_p0vk2ap0vk2ap0vk.png');
+    background-size: cover;
+    background-color: centre;
+    
+    color: white;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+p {
+    max-width:600px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+button {
+    padding: 10px 15px;
+    margin-top: 20px;
+    cursor: pointer;
+    align-self: center;
+}
+
+#aboutSection {
+    display: none;
+    padding:40px;
+    background-color:rgb(29, 47, 48);
+    margin-top: 20px;
+}
